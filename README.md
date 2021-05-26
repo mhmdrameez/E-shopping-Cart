@@ -24,7 +24,5 @@ Run the server with
 
 Added mongoDB database,get and post method route,tested for now with postman,client representation,client validation on test,contact page   
 You can see the raw json from the database on /api and /api/contact   
-In order to search weather you need an appid from openweather api   
-For the tv-show search bar you don't need an appid or key in order to search tv shows  
 Slowly refactoring the webapp's style with grid css3   [about page and test page]   
-```Work on Progress```
+
